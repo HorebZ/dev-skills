@@ -21,6 +21,7 @@ These skills offload that effort to the AI agent: narrow, practical guardrails I
 |-------|-------------|--------|
 | `component-conventions` | Framework-agnostic rules for naming, organizing, and writing frontend components (Svelte / Vue / React). | [VueJS.org Style Guide](https://vuejs.org/style-guide/rules-strongly-recommended.html) |
 | `svelte-api` | Svelte 5 best practices (runes, events, snippets, context, legacy-feature migration). | [Svelte.dev Best Practices](https://svelte.dev/docs/svelte/best-practices) |
+| `tailwind-v4` | Tailwind CSS v4 essentials: CSS-first config, automatic content detection, dynamic utilities, and migration away from v3 patterns. | [Tailwind CSS v4](https://tailwindcss.com/blog/tailwindcss-v4) |
 
 ## License
 
